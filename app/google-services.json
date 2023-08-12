@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527036783857",
+    "project_id": "autentikasi-f614e",
+    "storage_bucket": "autentikasi-f614e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527036783857:android:93b70c6772decc6b509d50",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_if4_10121801"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527036783857-t8it5v1fb82qk6un0f20k87q0vtn8pu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6EApmwWPftxZlOQVnNPf08DbidYKeZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527036783857-t8it5v1fb82qk6un0f20k87q0vtn8pu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
